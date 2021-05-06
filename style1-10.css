@@ -71,11 +71,12 @@ footer {
   main {
     width: 100%;
     display: block;
+    margin: 50px 0 50px 0;
   }
 
   .box {
     width: 90%;
-    margin: 0 0 20px 35px;
+    margin: 0 auto 20px;
   }
 
   .img1 {
